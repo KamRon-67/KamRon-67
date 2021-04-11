@@ -2,6 +2,7 @@
 
 <!--
 **KamRon-67/KamRon-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +13,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about pretty much anything your see here 
 - 📫 How to reach me: cameronyoung@cmmsolutions.io
 - ⚡ Fun fact: I am making this up as I go!
--->
