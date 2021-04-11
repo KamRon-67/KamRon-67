@@ -4,8 +4,6 @@
 **KamRon-67/KamRon-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on project_unicorn
 - 🌱 I’m currently learning Blazor
 - 👯 I’m looking to collaborate on project_unicorn or any Blazor project
