@@ -12,7 +12,7 @@
 <br />I'm a software developer focused on front-end development and passionate about the problem solving and creative aspects of development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding. I am now on the path of pursuing a career in this field that is constantly expanding with new and interesting topics to learn.
 
 <br />[<img alt="Cameron Young Dev.to blog" src="https://img.shields.io/badge/Cameron Young-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >](https://dev.to/sigfualt)
-[<img alt="Kieran Roberts Twitter handle" src="https://img.shields.io/badge/sigfualt%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" >](https://twitter.com/Kieran6dev)
+[<img alt="Cameron Young Twitter handle" src="https://img.shields.io/badge/sigfualt%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" >](https://twitter.com/sigfualt)
 
 My blog is available here [jrdev.io](https://jrdev.io/).
 
