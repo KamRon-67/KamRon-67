@@ -7,11 +7,6 @@
 <h1 align="center">Hi there 👋, my name is Cameron.</h1>
 <h2 align="center">Full Stack Developer</h2><br />
 <div>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/>
 </div>
 
 <br />I'm a software developer focused on front-end development and passionate about the problem solving and creative aspects of development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding. I am now on the path of pursuing a career in this field that is constantly expanding with new and interesting topics to learn.
