@@ -17,6 +17,7 @@ My blog is available here [jrdev.io](https://jrdev.io/).
 ---
 ## Latest Blog Posts
 
+* [Intro To DI Aggregation Association And Composition](https://jrdev.io/posts/Intro-To-DI-Aggregation-Association-And-Composition/)
 * [An Example of Reflection](https://jrdev.io/archive/2021/04/17/Reflection/)
 * [The T In TDD](https://jrdev.io/archive/2021/03/11/The-T-In-TDD/)
 * [Growing as a dev during covid](https://jrdev.io/archive/2021/01/15/Growing-as-a-dev-during-covid/)
