@@ -17,6 +17,7 @@ My blog is available here [jrdev.io](https://jrdev.io/).
 ---
 ## Latest Blog Posts
 
+* [Jumping Into Testing](https://jrdev.io/posts/Jumping-Into-Testing/)
 * [Intro To DI Aggregation Association And Composition](https://jrdev.io/posts/Intro-To-DI-Aggregation-Association-And-Composition/)
 * [An Example of Reflection](https://jrdev.io/archive/2021/04/17/Reflection/)
 * [The T In TDD](https://jrdev.io/archive/2021/03/11/The-T-In-TDD/)
@@ -26,9 +27,7 @@ My blog is available here [jrdev.io](https://jrdev.io/).
 ---
 
 ## Curently working on:
-- - 🔭 I’m currently working on project_unicorn
+- - 🔭 I’m currently working on how to make youtube videos
 - 🌱 I’m currently learning Blazor
-- 👯 I’m looking to collaborate on project_unicorn or any Blazor project
-- 🤔 I’m looking for help with with .net 6
 - 💬 Ask me about pretty much anything your see here 
 - ⚡ Fun fact: I am making this up as I go!
