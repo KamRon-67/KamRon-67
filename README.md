@@ -17,6 +17,8 @@ My blog is available here [jrdev.io](https://jrdev.io/).
 ---
 ## Latest Blog Posts
 
+* [Building AI Powered Applications]([https://jrdev.io/posts/Jumping-Into-Testing/](https://jrdev.io/posts/Building-AI-Powered-Applications/)
+* [Cracking the Dependency Inversion Principle (DIP)](https://jrdev.io/posts/Cracking-The-Dependency-Inversion-Principle/)
 * [Jumping Into Testing](https://jrdev.io/posts/Jumping-Into-Testing/)
 * [Intro To DI Aggregation Association And Composition](https://jrdev.io/posts/Intro-To-DI-Aggregation-Association-And-Composition/)
 * [An Example of Reflection](https://jrdev.io/archive/2021/04/17/Reflection/)
