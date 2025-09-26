@@ -16,7 +16,7 @@ My blog is available here [jrdev.io](https://jrdev.io/).
 
 ---
 ## Latest Blog Posts
-
+* [Simplify Your Clean Architecture Practice: A Framework Without MediatR Overhead](https://jrdev.io/posts/A-Framework-Without-MediatR/)
 * [Building AI Powered Applications](https://jrdev.io/posts/Building-AI-Powered-Applications/)
 * [Cracking the Dependency Inversion Principle (DIP)](https://jrdev.io/posts/Cracking-The-Dependency-Inversion-Principle/)
 * [Jumping Into Testing](https://jrdev.io/posts/Jumping-Into-Testing/)
